@@ -14,3 +14,7 @@ Note:
 You'll on average lose 1 ping.
 We've had issues with VMs with snapshots that complained about not being able to commit snapshots because of the old network config.
 Don't be scared when VMs suddenly show an empty networking page, this will correct itself after a while.
+
+Source:
+This repo was source for this script:
+https://github.com/microsoft/Convert-LBFO2SET 
